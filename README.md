@@ -17,5 +17,5 @@
 * data_mining：该文件是对爬取的数据进行挖掘，使用图卷积来预测球队的排名。
 
 ### 作者
-[youlin_zhan](https://github.com/Zyl-SZU)
-[yiqiang_yi](https://github.com/yifrank)
+* [youlin_zhan](https://github.com/Zyl-SZU)
+* [yiqiang_yi](https://github.com/yifrank)
