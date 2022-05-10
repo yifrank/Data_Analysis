@@ -15,3 +15,7 @@
 * data_collection：该文件保存爬取NBA球员数据和比赛数据的代码，和相应爬取的数据。
 * data_Visualizing: 该文件对数据进行可视化的代码以及相应的图片。
 * data_mining：该文件是对爬取的数据进行挖掘，使用图卷积来预测球队的排名。
+
+### 作者
+[youlin_zhan](https://github.com/Zyl-SZU)
+[yiqiang_yi](https://github.com/yifrank)
