@@ -5,7 +5,7 @@
 * python==3.8
 * dgl==0.6.1
 * torch==1.6.0
-其余的依赖见requirement.txt
+* 其余的依赖见requirement.txt
 
 
 ## 项目介绍
